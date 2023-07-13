@@ -4,6 +4,6 @@ if (choice == 1):
     print ((num * 60), " minutes.")
 elif(choice == 2):
     num = eval(input("How Many Minutes?"))
-    print ((num // 60), " hours.")
+    print ((num //60), " hours.")
 else:
     print ("Please enter 1 or 2")
