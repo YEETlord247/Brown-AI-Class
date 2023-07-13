@@ -1,1 +1,0 @@
-Perceptrons in NN's represent one-dimesnional lines. When you have multiple perceptrons in the several different layers, the line becomes piecewise and you can make the dimension boundary a polynoimal.
